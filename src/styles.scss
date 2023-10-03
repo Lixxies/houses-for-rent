@@ -1,0 +1,14 @@
+@use 'base';
+
+main {
+    padding: 1rem;
+}
+
+fa-icon {
+    color: base.$primary-color;
+    margin-right: 0.75rem;
+}
+
+button {
+    cursor: pointer;
+}

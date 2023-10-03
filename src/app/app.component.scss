@@ -1,0 +1,12 @@
+@use '../base';
+
+.pageHeader {
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 2rem;
+
+    h1 {
+        margin: 0;
+    }
+}
+    
